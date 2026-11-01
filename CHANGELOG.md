@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-01
+
 ### Changed
 
 - The repository moved to [MiracleForest/Complementaries](https://github.com/MiracleForest/Complementaries).
@@ -53,5 +55,6 @@ on LeviLamina 26.51.7 (Minecraft Bedrock 1.26.51), for the dedicated server and 
 - One configuration file per feature group under `config/`, reloaded by `/supplementaries reload`.
 - English and Simplified Chinese translations.
 
-[Unreleased]: https://github.com/MiracleForest/Complementaries/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/MiracleForest/Complementaries/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/MiracleForest/Complementaries/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/MiracleForest/Complementaries/releases/tag/v0.1.0
