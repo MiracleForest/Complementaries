@@ -10,7 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - The repository moved to [MiracleForest/Complementaries](https://github.com/MiracleForest/Complementaries).
-  The lip package path stays `github.com/LiteLDev/Complementaries`.
+- The lip package is now `github.com/MiracleForest/Complementaries` (installing by this path needs
+  lip 0.35.0 or newer). Older versions stay installable at their old path,
+  `github.com/LiteLDev/Complementaries`. To move an existing install, run `lip update` with a lip
+  that supports renamed packages, or
+  `lip uninstall github.com/LiteLDev/Complementaries[#client]` and then
+  `lip install github.com/MiracleForest/Complementaries[#client]`. The config in
+  `plugins/Complementaries/config/` (server) or `mods/Complementaries/config/` (client) is kept.
 
 ## [0.1.0] - 2026-10-29
 
