@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- The repository moved to [MiracleForest/Complementaries](https://github.com/MiracleForest/Complementaries).
+  The lip package path stays `github.com/LiteLDev/Complementaries`.
+
 ## [0.1.0] - 2026-10-29
 
 First release: the blocks, items, mechanics, screens and vanilla tweaks of Supplementaries 4.0.2,
@@ -42,5 +47,5 @@ on LeviLamina 26.51.7 (Minecraft Bedrock 1.26.51), for the dedicated server and 
 - One configuration file per feature group under `config/`, reloaded by `/supplementaries reload`.
 - English and Simplified Chinese translations.
 
-[Unreleased]: https://github.com/LiteLDev/Complementaries/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/LiteLDev/Complementaries/releases/tag/v0.1.0
+[Unreleased]: https://github.com/MiracleForest/Complementaries/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/MiracleForest/Complementaries/releases/tag/v0.1.0
