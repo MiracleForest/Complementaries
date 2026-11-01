@@ -1,7 +1,7 @@
 # Complementaries
 
-[![Build](https://github.com/LiteLDev/Complementaries/actions/workflows/build.yml/badge.svg)](https://github.com/LiteLDev/Complementaries/actions/workflows/build.yml)
-[![License](https://img.shields.io/github/license/LiteLDev/Complementaries)](COPYING.LESSER)
+[![Build](https://github.com/MiracleForest/Complementaries/actions/workflows/build.yml/badge.svg)](https://github.com/MiracleForest/Complementaries/actions/workflows/build.yml)
+[![License](https://img.shields.io/github/license/MiracleForest/Complementaries)](COPYING.LESSER)
 
 Vanilla+ blocks and items: jars, signposts, faucets, weather vanes, spring launchers and more. Complementaries brings MehVahdJukaar's Java mod [Supplementaries](https://modrinth.com/mod/supplementaries) to Bedrock, for dedicated servers and single-player worlds.
 
@@ -16,7 +16,7 @@ lip install github.com/LiteLDev/Complementaries           # dedicated server
 lip install github.com/LiteLDev/Complementaries#client    # client
 ```
 
-Or download the zip from the [latest release](https://github.com/LiteLDev/Complementaries/releases/latest) and extract it next to `LeviLamina/`:
+Or download the zip from the [latest release](https://github.com/MiracleForest/Complementaries/releases/latest) and extract it next to `LeviLamina/`:
 
 | Where | Zip | Folder |
 | --- | --- | --- |
